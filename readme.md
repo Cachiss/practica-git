@@ -1,0 +1,1 @@
+Este repo es una prueba para la práctiva de git y github de la clase Desarrollo Web Integral, en la que a lo largo del control de versiones se trabajará con un texto que conteiene el poema Tabaquería de Fernando Pessoa.
